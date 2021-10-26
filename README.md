@@ -1,7 +1,7 @@
 # Group-6-project
 Hypothesis:
 
-The degree of eutrophication and the frequency of agricultural activities are positively correlated from April,2018 to April, 2019.
+The degree of eutrophication and the frequency of agricultural activities are positively correlated from April, 2018 to April, 2019.
 
 Analysis Plan:
 
