@@ -18,11 +18,13 @@ Analysis Plan:
 
 Data Resource:
 
-1. Sea Surface Temperature: (https://www.esrl.noaa.gov/psd/thredds/fileServer/Datasets/noaa.ersst.v5/sst.mnmean.nc)
+1. Sea Surface Temperature: (https://api.ereefs.aims.gov.au/data-extraction/request/2109.af44c96/files/2109.af44c96-collected.csv)
 
 2. Total Nitrogen: (https://api.ereefs.aims.gov.au/data-extraction/request/2109.adcc072/files/2109.adcc072-collected.csv)
 
 3. Total phosphorus (the inserted datasets are dissolved inorganic phosphorus (DIP), dissolved organic phosphorus (DORP) , particulate inorganic phosphorus (PIP)):(https://api.ereefs.aims.gov.au/data-extraction/request/2110.705202c/files/2110.705202c-collected.csv)
+
+4. Mean chlorophylla: (https://api.ereefs.aims.gov.au/data-extraction/request/2110.38d9787/files/2110.38d9787-collected.csv)
 
 Binder Link:
 
