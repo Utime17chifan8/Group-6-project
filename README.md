@@ -24,4 +24,4 @@ Data Resource:
 
 Binder Link:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wst1997/final_project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Utime17chifan8/Group-6-project)
