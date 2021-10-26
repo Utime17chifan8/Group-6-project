@@ -5,13 +5,15 @@ The degree of eutrophication and the frequency of agricultural activities are po
 
 Analysis Plan:
 
-1. make a line plot demonstrating the anomalies of both sea surface temperature and sea ice concentration from 1982 to 2019
+1. make a double-line graph for the change of chlorophyll content over time from April, 2018 to April, 2019.
 
-2. make a plot demonstrating global sea surface temperature in 1982 and 2019
+2. make a trend diagram for changes in temperature and chlorophyll content from April, 2018 to April, 2019.
 
-3. make a line trend chart demonstrating total nitrogen content versus each season from April, 2018 to April, 2019
+3. Combine the three variables of time, temperature and chlorophyll concentration to model the three-dimensional graph from April, 2018 to April, 2019.
 
-4. make a stacked bar plot monthly demonstrating total phosphorus content from April, 2018 to April, 2019
+4. make a line trend chart demonstrating total nitrogen content versus each season from April, 2018 to April, 2019.
+
+5. make a stacked bar plot monthly demonstrating total phosphorus content from April, 2018 to April, 2019.
 
 
 Data Resource:
