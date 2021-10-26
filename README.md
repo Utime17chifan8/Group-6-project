@@ -13,7 +13,7 @@ Analysis Plan:
 
 4. make a line trend chart demonstrating total nitrogen content versus each season from April, 2018 to April, 2019.
 
-5. make a stacked bar plot monthly demonstrating total phosphorus content from April, 2018 to April, 2019.
+5. make a stacked bar plot demonstrating total phosphorus content monthly from April, 2018 to April, 2019.
 
 
 Data Resource:
