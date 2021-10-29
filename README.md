@@ -1,7 +1,7 @@
 # Group-6-project
-Hypothesis:
+Question:
 
-The degree of eutrophication and the frequency of agricultural activities are positively correlated from April, 2018 to April, 2019.
+To understand the influence of agricultural activities on the location and extent of eutrophication by examining nitrogen and phosphorus indicators; to understand the influence of seasonal factors on chlorophyll concentration in water bodies from April, 2018 to April, 2019.
 
 Analysis Plan:
 
