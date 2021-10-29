@@ -1,5 +1,6 @@
 # Group-6-project
-These are the figures we get from coding files.
+### Results
+These are the results we get from coding files.
 
 <img src="https://github.com/Utime17chifan8/Group-6-project/blob/main/image/Chlorophyll%26Time.jpeg" width="500"/><br/>
 <img src="https://github.com/Utime17chifan8/Group-6-project/blob/main/image/Mean%20Chlorophyll%20a%20vs.%20Mean%20temperature.jpg" width="500"/><br/>
@@ -12,10 +13,10 @@ These are the figures we get from coding files.
 > The timeline of this project is from April, 2018 to April, 2019. There are two sites in the project, Princess Charlotte Bay (site 1) and Mackay (site 2).
 > The location of site 1 is (-14.434600,144.081600), of site 2 is (-21.2411,149.2713).
  
-### Question:
+### Questions:
 
-> 1. To understand the influence of agricultural activities on the location and extent of eutrophication by examining nitrogen and phosphorus indicators
-> 2. To understand the influence of seasonal factors on chlorophyll concentration in water bodies.
+1. To understand the influence of agricultural activities on the location and extent of eutrophication by examining nitrogen and phosphorus indicators.
+2. To understand the influence of seasonal factors on chlorophyll concentration in water bodies.
 
 ### Analysis Plan:
 
