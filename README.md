@@ -1,4 +1,5 @@
 # Group-6-project
+These are the figures we get from coding files.
 
 <img src="https://github.com/Utime17chifan8/Group-6-project/blob/main/image/Chlorophyll%26Time.jpeg" width="500"/><br/>
 <img src="https://github.com/Utime17chifan8/Group-6-project/blob/main/image/Mean%20Chlorophyll%20a%20vs.%20Mean%20temperature.jpg" width="500"/><br/>
