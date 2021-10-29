@@ -1,9 +1,12 @@
 # Group-6-project
-Question:
 
-To understand the influence of agricultural activities on the location and extent of eutrophication by examining nitrogen and phosphorus indicators; to understand the influence of seasonal factors on chlorophyll concentration in water bodies from April, 2018 to April, 2019.
 
-Analysis Plan:
+
+### Question:
+
+> To understand the influence of agricultural activities on the location and extent of eutrophication by examining nitrogen and phosphorus indicators; to understand the influence of seasonal factors on chlorophyll concentration in water bodies from April, 2018 to April, 2019.
+
+### Analysis Plan:
 
 1. make a double-line graph for the change of chlorophyll content over time from April, 2018 to April, 2019.
 
@@ -16,7 +19,7 @@ Analysis Plan:
 5. make a stacked bar plot demonstrating total phosphorus content monthly from April, 2018 to April, 2019.
 
 
-Data Resource:
+### Data Resource:
 
 1. Sea Surface Temperature: (https://api.ereefs.aims.gov.au/data-extraction/request/2109.af44c96/files/2109.af44c96-collected.csv)
 
