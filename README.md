@@ -20,15 +20,15 @@ These are the results we get from coding files.
 
 ### Analysis Plan:
 
-1. Make a double-line graph for the change of chlorophyll content over time from April, 2018 to April, 2019.
+1. Make a double-line graph for the change of chlorophyll content over time.
 
-2. Make a trend diagram for changes in temperature and chlorophyll content from April, 2018 to April, 2019.
+2. Make a trend diagram for changes in temperature and chlorophyll content over time.
 
-3. Combine the three variables of time, temperature and chlorophyll concentration to model the three-dimensional graph from April, 2018 to April, 2019.
+3. Combine the three variables of time, temperature and chlorophyll concentration to model the three-dimensional graph over time.
 
-4. Make four line trend chart demonstrating total nitrogen content versus every season from April, 2018 to April, 2019.
+4. Make four line trend chart demonstrating total nitrogen content versus every season over time.
 
-5. Make a stacked bar plot demonstrating total phosphorus content monthly from April, 2018 to April, 2019.
+5. Make a stacked bar plot demonstrating total phosphorus content monthly over time.
 
 
 ### Data Resource:
