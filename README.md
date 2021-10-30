@@ -16,6 +16,7 @@ These are the results we get from coding files.
 ### Questions:
 
 1. To understand the influence of agricultural activities on the location and extent of eutrophication by examining nitrogen and phosphorus indicators.
+
 2. To understand the influence of seasonal factors on chlorophyll concentration in water bodies.
 
 ### Analysis Plan:
